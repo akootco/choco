@@ -1,0 +1,3 @@
+rootProject.name = 'choco'
+include(':bluefox')
+project(':bluefox').projectDir = new File('../bluefox')
